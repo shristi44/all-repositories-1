@@ -33,5 +33,6 @@ replaces the human capabilities
 ex:robots used for handicapped persons.
 
 COMPONENTS:
+done my changes.
 Power supply,Actutators,Electric motors,Sensors.
  
